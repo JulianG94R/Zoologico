@@ -1,0 +1,82 @@
+.carousel-inner{
+    width: 100%;
+    height: 100vh;
+    object-fit: scale-down;
+}
+
+h1 {
+    font-weight: 750;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+.spacetitlesection {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+
+.marginborder {
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+#Photos {
+    background-color: lightblue;
+}
+
+.bground {
+    background-color: rgb(167, 234, 243);
+}
+
+.bground2 {
+    background-color: lightgrey;
+}
+
+.marginborder2 {
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+h5 {
+    text-align: center;
+}
+
+.spacetitlesection2 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.75rem;
+}
+
+.spacetitlesection3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.001rem;
+}
+
+.mapsize {
+    margin-bottom: 8rem;
+    margin-right: 2rem;
+}
+
+.darkercolor {
+    background-color: rgb(1, 1, 61);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-img-top2
+{
+    width: 100%;
+    
+}
+.spacetitlesection4 {
+    margin-top: 0.01rem;
+    margin-bottom: 1.75rem;
+}
+
+.card-img-top3{
+    width: 100%;
+   
+}
